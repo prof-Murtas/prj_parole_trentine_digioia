@@ -1,2 +1,3 @@
 questo progetto permette la traduzione da vocaboli italiani al dialetto  trentino e dal dialetto trentino all’italiano, fornendo funzioni come dei filtri, ogni ricerca mostrerà la traduzione, la categoria grammaticale, se è maschile femminile, la pronuncia, esempi di utilizzo, eventuali immagini.
 E’ anche possibile l’espansione del vocabolario tramite suggerimenti agli amministratori
+il progetto è scritto in html/css, ed utilizza javascript per le funzioni, sarà disponibile sul sito web: <da inserire>, nel frattempo è possibile scaricare il progetto ed eseguirlo tramite un compiler.
