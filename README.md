@@ -1,1 +1,2 @@
-# prj_parole_trentine_digioia
+questo progetto permette la traduzione da vocaboli italiani al dialetto  trentino e dal dialetto trentino all’italiano, fornendo funzioni come dei filtri, ogni ricerca mostrerà la traduzione, la categoria grammaticale, se è maschile femminile, la pronuncia, esempi di utilizzo, eventuali immagini.
+E’ anche possibile l’espansione del vocabolario tramite suggerimenti agli amministratori
